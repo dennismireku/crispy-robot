@@ -1,6 +1,6 @@
 # crispy-robot
 
-here is some information about this proect
+here is some information about this project
 
 
 what are we going to do
